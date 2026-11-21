@@ -1,128 +1,137 @@
-# Ganchos de Reels: Mentoria para pais e jogadores (da base ao profissional)
+# Ganchos de Reels: Mentoria para pais e jogadores (v2, com mais dor e curiosidade)
 
-Feito com base no `playbook-ganchos-reels.md` (análise da @kathybartz). Cada fórmula foi adaptada para o futebol de base.
+## Por que a v1 ficou fraca
 
-**Divisão:** 80% de assunto amplo (pais e jogadores em geral), para crescer. 20% sobre a mentoria, para vender.
+Os ganchos da v1 prometiam benefícios vagos ("mais confiança", "jogar mais solto"). Ninguém para de rolar a tela por isso.
+Os ganchos fortes da @kathybartz têm três coisas:
 
-**Formato:** take de até 10s da rotina com o gancho na tela. O conteúdo vai na legenda ou numa lista na tela. O último item da lista é "Já me segue aí 👇". Primeiro poste como reels de teste e depois a cópia no feed.
+| Ingrediente | Nela | No seu nicho |
+|---|---|---|
+| **Dor concreta** (algo que a pessoa teme) | ser IGNORADO, passar PÉSSIMA impressão | **dispensa, peneira, banco, dinheiro jogado fora, filho querer parar, golpe de empresário** |
+| **Culpado inesperado** | "hábitos que *parecem educados*…" | **o próprio pai**, não o talento nem o treinador |
+| **Loop aberto** (a resposta só vem se assistir ou ler) | "…e ninguém te avisa", "regra ESTRANHA" | "o motivo ninguém conta pros pais", "não tem nada a ver com a bola", "o 3º…" |
 
-> ⚠️ Onde aparecer **[colchetes]**, coloque um dado real seu (anos de experiência, número de famílias, histórias). Os ganchos com "eu descobri…" ou "eu observei…" só funcionam se forem verdade. Se não forem, troque por "a psicologia do esporte mostra…".
+**Regra:** cada gancho precisa de pelo menos 2 dos 3. Se não tiver, descarte.
+
+> ⚠️ Ganchos com **[colchetes]** ou que contam uma história ("ele chorou…", "treinadores me contaram…") só podem ser usados se forem verdade. Não prometa resultado (contrato, virar profissional).
+
+---
+
+## 🔥 1. Dispensa e peneira (a maior dor dos pais)
+
+1. **Seu filho não foi reprovado na peneira por falta de talento. Foi por isso aqui 👇**
+2. **O que o olheiro anota sobre seu filho nos primeiros 5 minutos (e não tem nada a ver com a bola)**
+3. **7 coisas que fazem o olheiro riscar o nome do seu filho antes dele tocar na bola**
+4. **Ele era o melhor da escolinha e foi dispensado aos 15. O motivo ninguém conta pros pais**
+5. **Por que o "craque" da escolinha quase nunca vira profissional (e às vezes o reserva vira)**
+
+## 🔥 2. O pai como culpado (polêmica que gera comentário e compartilhamento)
+
+6. **O maior adversário do seu filho não está em campo. Está no banco do carro, voltando do jogo**
+7. **Se você faz isso no carro depois do jogo, você pode ser o motivo do seu filho querer parar**
+8. **10 atitudes de pais que fazem o treinador evitar escalar o seu filho (e ele nunca vai te falar)**
+9. **O pai que mais investe é o que mais atrapalha. Eu explico 👇**
+10. **Treinadores de base me contaram qual tipo de pai faz eles desistirem de um garoto** *(só se for verdade)*
+
+## 🔥 3. Dinheiro investido
+
+11. **Escolinha, chuteira, viagem, peneira… e ele continua no banco? 9 coisas que dinheiro nenhum compra (e decidem quem sobe)**
+12. **Se um "empresário" te pedir isso, saia correndo: 7 sinais de golpe no futebol de base**
+13. **O erro que faz pais gastarem anos e dinheiro com o futebol do filho… pra ele parar aos 16**
+
+## 🔥 4. Banco e "QI"
+
+14. **"Lá é tudo QI." Será? 8 motivos REAIS pelos quais seu filho está no banco**
+15. **Seu filho é bom e ainda assim é reserva? O treinador está olhando pra ISSO 👇**
+16. **O que separa o titular do reserva na base não é talento (e quase ninguém percebe)**
+
+## 🔥 5. Querer desistir e saúde mental
+
+17. **9 sinais de que seu filho perdeu o prazer de jogar (e você está achando que é preguiça)**
+18. **Um dia ele vai te perguntar: "e se eu não chegar?" Tenha essa resposta pronta**
+19. **Ele chorou no vestiário e disse que queria parar. O que eu falei mudou tudo** *(história real)*
+
+## 🔥 6. Idade e tempo (o estilo do recorde de 578 mil)
+
+20. **Aos 14 seu filho já deveria saber disso. Aos 17 pode ser tarde** *(lista)*
+21. **Todo pai de jogador descobre isso tarde demais** *(lista)*
+22. **O funil mais cruel do futebol é entre o sub-17 e o sub-20. Quem passa faz essas 7 coisas antes dos 15**
+
+## 🔥 7. Para o jogador
+
+23. **Você treina mais que todo mundo e continua no banco? Para de treinar mais e começa a fazer ISSO**
+24. **11 coisas que jogadores dispensados faziam sem perceber (eu vi de perto)**
+25. **O que o treinador pensa de você quando você reclama do juiz**
+26. **Errou o passe:** 🟥 ABAIXA A CABEÇA / 🟩 PEDE A BOLA DE NOVO *(o olheiro está olhando)*
+
+## 💰 8. Venda (20%)
+
+27. **Acompanhei [X] famílias na base. As que chegaram ao profissional tinham 1 coisa em comum (não era talento)**
+28. **Se seu filho tem entre 12 e 17 anos e sonha em ser profissional, para tudo e lê isso**
+29. **Mentora de pais e jogadores te ALERTA: 8 erros que fazem talento ser jogado fora sem ninguém perceber**
+30. **Ninguém prepara o pai pra base. Por isso eu criei [nome da mentoria]**
+
+---
+
+## ✍️ Roteiros prontos (listas na tela)
+
+**#3: 7 coisas que fazem o olheiro riscar o nome do seu filho antes dele tocar na bola**
+> 1. Chegar em cima da hora e aquecer de qualquer jeito.
+> 2. Ficar mudo em campo: não chama, não orienta.
+> 3. Abaixar a cabeça depois do primeiro erro.
+> 4. Reclamar do juiz ou do colega.
+> 5. Se esconder do jogo e não pedir a bola.
+> 6. Não voltar para marcar.
+> 7. Ter um pai gritando instrução da arquibancada.
+> Já me segue aí 👇
+
+**#7: Se você faz isso no carro depois do jogo, você pode ser o motivo do seu filho querer parar**
+*(legenda)*
+> Perguntar "por que você não chutou?"
+> Comparar com o colega.
+> Lembrar quanto você gastou.
+> Analisar o jogo inteiro antes dele tomar banho.
+>
+> Pro seu filho, o carro depois do jogo é o lugar mais importante da semana. É ali que ele decide se o futebol é prazer ou peso.
+> Tenta na próxima: "Gostei de te ver jogar." E silêncio. Deixa ele falar primeiro.
+> Manda para aquele pai da arquibancada 👀
+
+**#14: "Lá é tudo QI." Será? 8 motivos REAIS pelos quais seu filho está no banco**
+> 1. Ele some do jogo quando o time está perdendo.
+> 2. A linguagem corporal dele grita "não quero estar aqui".
+> 3. Não cumpre a função tática que o treinador pediu.
+> 4. Rende no treino, mas trava no jogo.
+> 5. O físico não acompanha a categoria (e ninguém trabalha isso).
+> 6. Não conversa com o treinador; o pai conversa por ele.
+> 7. Desliga quando é substituído.
+> 8. Acha que o problema é sempre externo.
+> QI existe? Às vezes. Mas antes de culpar o clube, olha essa lista com ele. 👇
 
 ---
 
 ## 🎬 Cenas para gravar (banco de takes de 10s)
 
-Grave um estoque de takes e reaproveite com ganchos diferentes:
-- Beira do campo olhando o treino, de costas para a câmera
-- Arquibancada vazia, ou com pais assistindo
-- Chuteira sendo amarrada, bola rolando, cones no gramado
-- Dentro do carro indo para o treino ou o jogo
-- Você anotando num caderno ou mexendo no celular durante uma sessão de mentoria
-- Você conversando com pai ou atleta (filme de longe, sem áudio)
-- Selfie falando ("só gancho" + "clica aqui pra assistir em 2x")
+- Arquibancada ou beira do campo, de costas para a câmera
+- **O carro indo ou voltando do jogo** (combina com os ganchos 6, 7 e 13)
+- Chuteira suja jogada no banco de trás, bola rolando, cones
+- Você numa sessão de mentoria (de longe, sem áudio)
+- Selfie séria falando + "clica aqui pra assistir em 2x"
 - Palestra ou encontro com pais (prova de autoridade)
 
-> Se aparecer criança ou adolescente reconhecível, peça **autorização por escrito dos responsáveis**. Na dúvida, filme de costas ou só os pés e a bola.
-
----
-
-## A) Para PAIS (assunto amplo, é o que mais deve crescer)
-
-1. **Todo pai de jogador de base já deveria saber disso** *(lista na tela)*
-   > 1. Treino ruim não define carreira.
-   > 2. Banco não é castigo, é informação.
-   > 3. Sono também é treino.
-   > 4. Seu filho escuta o seu silêncio no carro.
-   > 5. Escola é plano A junto com o futebol, não plano B.
-   > 6. Olheiro repara em atitude, não só em gol.
-   > 7. Comparar com o colega tira a confiança dele.
-   > 8. Já me segue aí 👇
-2. **9 frases "inofensivas" que pais falam no carro depois do jogo e que destroem a confiança do filho (e ninguém te avisa)**
-3. **12 atitudes que parecem apoio mas pressionam seu filho atleta (e ninguém te avisa)**
-4. **NUNCA pergunte "fez gol?" depois do jogo: 7 perguntas que fazem seu filho se abrir com você**
-5. **10 atitudes "FRIAS" de pais que fazem o filho jogar MAIS solto em campo**
-6. **7 frases "bobinhas" para falar antes do jogo que mudam a confiança de QUALQUER filho**
-7. **11 hábitos de pais de jogadores que chegaram ao profissional que eu observei de perto (spoiler: nenhum é cobrar mais)**
-8. **Eu descobri uma regra ESTRANHA que faz seu filho jogar com mais confiança… e quem tem que mudar é o pai**
-9. **15 perguntas desconfortáveis mas necessárias para fazer ao seu filho antes de investir no futebol**
-10. **Pai na arquibancada:** 🟥 GRITA INSTRUÇÃO / 🟩 APLAUDE O ESFORÇO
-11. **8 ERROS que pais cometem na peneira sem perceber (o 3º elimina antes de começar)**
-12. **Coisas que só mãe de jogador de base entende** 🧺⚽ *(humor ou identificação, bom para compartilhar)*
-
-## B) Para JOGADORES (assunto amplo de futebol)
-
-13. **Aos 15 anos todo jogador de base já deveria saber disso** *(lista na tela)*
-14. **11 hábitos de jogadores profissionais que você pode copiar ainda na base (spoiler: nenhum é treinar mais)**
-15. **10 hábitos "CHATOS" que separam quem chega ao profissional de quem para no sub-17**
-16. **9 atitudes "bobinhas" que fazem o treinador reparar em você (sem precisar fazer gol)**
-17. **14 microajustes que fazem você jogar com mais CONFIANÇA (sem mudar NADA no seu físico)**
-18. **JAMAIS diga essas 7 frases para o seu treinador se você quer ser titular**
-19. **Errou o pênalti? 9 coisas que jogadores mentalmente fortes fazem nos 5 minutos seguintes**
-20. **7 sinais de que você está mentalmente pronto para o profissional (o 5º quase ninguém tem)**
-21. **Banco de reservas:** 🟥 FICA DE CARA FECHADA / 🟩 AQUECE COMO SE FOSSE ENTRAR
-
-## C) Emocional e identidade (compartilhamento)
-
-22. **Por trás de todo jogador que chegou lá, existe um pai que aprendeu a ficar calado na arquibancada**
-23. **Ele foi dispensado aos [idade]. Hoje eu diria isso pra ele:** *(história real)*
-24. **"Seu filho joga bola? Que legal, e o plano B?"** / Eu, que sei que dá para ter os dois: 🙂
-
-## D) Mentoria (vender, 20% dos posts)
-
-25. **Sou mentora de pais e jogadores e te ALERTO: 8 hábitos que fazem talento ser desperdiçado sem ninguém perceber**
-26. **[X] anos acompanhando famílias no futebol: 7 erros que fazem a família inteira desistir antes da hora**
-27. **Seu filho foi dispensado? Faça isso nas próximas 48h** *(lista)*
-28. **O que eu faria se meu filho tivesse 14 anos e quisesse ser jogador profissional** *(infográfico: todo dia / toda semana / todo mês)*
-29. **Talento não basta: 5 coisas que nenhum clube ensina (e que eu trabalho na mentoria)**
-30. **Para de investir só em escolinha: o que mais derruba jogador da base é a cabeça**
-
----
-
-## ✍️ Exemplos de legenda (formato "só gancho")
-
-**Gancho 2: "9 frases inofensivas que pais falam no carro…"**
-> Se você já disse alguma dessas, respira: quase todo pai já disse. 👇
-> 1. "Por que você não chutou?"
-> 2. "Fulano jogou melhor que você."
-> 3. "O treinador não gosta de você."
-> 4. "Gastei tanto e você joga assim?"
-> 5. "Se fosse eu, tinha feito o gol."
-> 6. "Hoje você tava com preguiça."
-> 7. "Tem que querer mais."
-> 8. "Assim você não vai ser ninguém."
-> 9. "Vamos ver o vídeo pra te mostrar o erro." (logo depois do jogo)
->
-> No carro, o silêncio e um "gostei de te ver jogar" valem mais do que qualquer análise.
-> Salva para lembrar no próximo jogo e manda para aquele pai da arquibancada 😅
-> Me segue para mais conteúdos sobre o caminho da base ao profissional ⚽
-
-**Gancho 25 (venda)**
-> Talento sem estrutura emocional e familiar quase sempre se perde no caminho. Os 8 hábitos estão na tela.
-> Se você se reconheceu em 3 ou mais, a mentoria é para você e sua família.
-> Comenta **BASE** que eu te mando como funciona 👇
-
----
-
-## 👤 Sugestão de bio (mesma estrutura da referência)
-
-> ⚽ Mentora de pais e jogadores | Da base ao profissional
-> Ajudo famílias a atravessar o caminho até o profissional sem pressão que destrói o sonho
-> [Prova: X famílias/atletas acompanhados · clubes · formação]
-> MENTORIA 👇
-> [link]
+> Se aparecer menor de idade reconhecível, peça autorização por escrito dos responsáveis. Na dúvida, filme de costas ou só os pés e a bola.
 
 ---
 
 ## 📅 Primeira semana (2 reels por dia)
 
-| Dia | Reel 1 (amplo) | Reel 2 |
+| Dia | Reel 1 | Reel 2 |
 |---|---|---|
-| 1 | #1 Todo pai já deveria saber disso | #13 Aos 15 anos… |
-| 2 | #2 Frases no carro | #16 Atitudes que fazem o treinador reparar |
-| 3 | #4 NUNCA pergunte "fez gol?" | #10 Pai na arquibancada 🟥/🟩 |
-| 4 | #3 Parecem apoio mas pressionam | #15 Hábitos "CHATOS" |
-| 5 | #5 Atitudes "FRIAS" | #22 Por trás de todo jogador… |
-| 6 | #14 Hábitos de profissional | #25 (venda) Te ALERTO |
-| 7 | Repostar o melhor da semana com outra cena | #12 Só mãe de jogador entende |
+| 1 | #1 Peneira: "foi por isso aqui" | #7 O carro depois do jogo |
+| 2 | #3 O olheiro risca o nome | #14 "Lá é tudo QI" |
+| 3 | #2 O que o olheiro anota | #17 Perdeu o prazer de jogar |
+| 4 | #6 O maior adversário está no carro | #23 Treina mais e continua no banco |
+| 5 | #12 Golpe de empresário | #20 Aos 14 já deveria saber |
+| 6 | #4 Melhor da escolinha, dispensado aos 15 | #29 (venda) Te ALERTA |
+| 7 | Repostar o melhor da semana com outra cena | #9 O pai que mais investe |
 
-**No fim da semana:** veja os 3 com mais views, reposte com outra cena e grave a versão falada do melhor.
+**No fim da semana:** reposte os 3 com mais views usando outra cena e grave a versão falada do melhor.
